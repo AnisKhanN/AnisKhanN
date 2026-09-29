@@ -1,158 +1,505 @@
-<div align="center">
-  <!-- In-repo SVG Header Banner (Always displays with 100% uptime) -->
-  <img src="assets/banner.svg" width="100%" alt="Anis Khan Niazi - Full Stack Software Engineer" />
+# 👋 Hey, I'm Anis Khan Niazi
 
-  <br />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=BSIT+Student+%7C+Full-Stack+Developer+in+Progress;MERN+Stack+%7C+REST+APIs+%7C+MongoDB;Building+Real-World+SaaS+Applications;Exploring+AI+Agents+%26+AI-Integrated+Systems;Learning+%7C+Building+%7C+Debugging+%7C+Improving" alt="Typing SVG" />
+</p>
 
-  <!-- Animated Typing Subtitle -->
+<p align="center">
   <a href="https://github.com/AnisKhanN">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Software+Engineer;Specializing+in+Node.js%2C+Express+%26+MongoDB;Enterprise+JWT+Auth+%26+Session+Security;Building+Scalable+Multi-Tenant+SaaS+Platforms;Available+for+Full-Time+Roles+%26+Contracts" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aniskhanniazi202@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-  <!-- Quick Action Badges -->
-  <p align="center">
-    <a href="mailto:aniskhanniazi202@gmail.com">
-      <img src="https://img.shields.io/badge/Email-aniskhanniazi202%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/AnisKhanN">
-      <img src="https://img.shields.io/badge/GitHub-AnisKhanN-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <img src="https://img.shields.io/badge/Status-🟢_Open_for_Hire-10B981?style=for-the-badge" alt="Hiring Status" />
-  </p>
-</div>
-
----
-
-## 💼 Executive Summary
-
-I am a results-driven **Full-Stack Software Engineer** specializing in modern **MERN stack**, resilient backend architectures, and secure enterprise session management. I build scalable, high-performance web systems with clean code, robust database modeling, and fluid user experiences.
-
-- 🚀 **Core Specialty**: End-to-end full-stack development using **React 18**, **Node.js**, **Express.js**, and **MongoDB**.
-- 🔐 **Security & System Architecture**: Production-grade dual-token JWT authentication, HTTP-only cookie isolation, silent Axios background rotation, Nodemailer SMTP OTP delivery, and multi-device session revocation.
-- 🏢 **Multi-Tenant SaaS**: Experienced designing clinical healthcare SaaS platforms featuring multi-tenant database isolation, role-based access control (RBAC), and high-throughput API endpoints.
-- 🎯 **Current Focus**: Architecting scalable cloud-native microservices, optimizing database performance, and building pixel-perfect, accessible web interfaces.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnisKhanN&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+</p>
 
 ---
 
-## ⚡ What I Do
+## 🧑‍💻 About Me
 
-I architect, develop, and maintain robust full-stack software solutions with an emphasis on security, scalability, and seamless user experiences:
+I'm a **BSIT student and aspiring Full-Stack / AI-integrated developer** focused on building practical software rather than only learning technologies in isolation.
 
-- 💻 **Full-Stack Application Development**
-  - Building responsive, scalable web applications from scratch using **React 18**, **Vite**, **Node.js**, **Express**, and **MongoDB**.
-  - Writing modular, reusable components and clean architectural patterns with strict separation of concerns.
+My current development journey revolves around:
 
-- 🛡️ **Enterprise Security & Authentication Architecture**
-  - Designing production-grade **dual-token authentication** workflows (short-lived 10-minute Access Tokens + 7-day Refresh Tokens).
-  - Isolating tokens in `httpOnly`, `SameSite` cookies to neutralize XSS and CSRF token extraction vulnerabilities.
-  - Implementing silent Axios background rotation interceptors with automated request retry queues.
-  - Engineering secure email OTP verification systems (Nodemailer Gmail SMTP) with server-side time-based expiration.
-  - Building multi-device session tracking with real-time device identification (IP, User-Agent) and global session revocation.
+```text
+JavaScript
+   ↓
+React
+   ↓
+Node.js + Express
+   ↓
+MongoDB + Mongoose
+   ↓
+REST APIs
+   ↓
+Authentication + RBAC
+   ↓
+Full-Stack Applications
+   ↓
+SaaS Architecture
+   ↓
+AI Integration
+   ↓
+AI Agents & Automation
+```
 
-- 🏢 **Multi-Tenant SaaS Systems**
-  - Architecting multi-tenant database models and organizational data isolation (e.g. Healthcare & Clinical SaaS).
-  - Developing Role-Based Access Control (RBAC), appointment scheduling, and patient record workflows.
+I enjoy working across the entire application lifecycle:
 
-- 🔌 **RESTful API Engineering & Integration**
-  - Designing high-throughput, structured REST APIs with consistent JSON envelopes, HTTP status codes, and input validation.
-  - Implementing defensive error-handling middleware pipelines and database transaction safeguards.
+**Architecture → Backend → Database → API → Authentication → Frontend → Integration → Testing**
 
-- 🎨 **Modern Frontend & Motion Design**
-  - Crafting pixel-perfect, accessible UIs with **Tailwind CSS** and responsive design across all viewports.
-  - Building smooth micro-animations and choreographed page transitions with **GSAP**.
-  - Persistent Dark / Light theme systems with zero-flash rendering.
-
----
-
-## 🛠️ Technical Skills & Toolbelt
-
-### Frontend Engineering
-![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP_Animations-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & API Architecture
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Dual_Token-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer_SMTP-007ACC?style=for-the-badge&logo=mailgun&logoColor=white)
-
-### Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose_ODM-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools, Testing & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+> 🧠 **My philosophy:** Don't just make it work. Understand why it works.
 
 ---
 
-## 🏆 Featured Engineering Architectures
+# 🚀 What I'm Building
+
+## 🏥 Smart Clinic & Pharmacy Management SaaS
+
+> **My BSIT Final Year Project**
+
+A full-stack healthcare management platform designed for local clinics and pharmacies.
+
+### 🧩 Core Modules
+
+| Module                      | Status        |
+| --------------------------- | ------------- |
+| 🔐 Authentication           | 🟢 Active     |
+| 👥 User Management          | 🟢 Active     |
+| 🧑🤝🧑 Patient Management | 🟢 Active     |
+| 📅 Appointment Management   | 🟢 Active     |
+| 💰 Billing                  | 🟢 Active     |
+| 💊 Pharmacy                 | 🚧 Developing |
+| 📦 Inventory                | 🚧 Developing |
+| 📊 Dashboard & Analytics    | 🚧 Developing |
+| ⚙️ Admin Settings           | 🚧 Developing |
+| 🤖 AI Receptionist          | 🧪 Exploring  |
+
+### 🏗️ Architecture
+
+```text
+                 ┌─────────────────────┐
+                 │    React + Vite     │
+                 │   Frontend Client   │
+                 └──────────┬──────────┘
+                            │
+                         REST API
+                            │
+                 ┌──────────▼──────────┐
+                 │   Node + Express    │
+                 │   Backend Services  │
+                 └──────────┬──────────┘
+                            │
+                ┌───────────┼───────────┐
+                │           │           │
+             Auth/RBAC   Validation   Services
+                │           │           │
+                └───────────┼───────────┘
+                            │
+                 ┌──────────▼──────────┐
+                 │ MongoDB + Mongoose  │
+                 └─────────────────────┘
+```
+
+### 🤖 AI Receptionist — Exploration
+
+I'm exploring an AI receptionist that could eventually:
+
+* 📅 Schedule appointments
+* 🔄 Reschedule appointments
+* ❌ Cancel appointments
+* 🏥 Answer clinic FAQs
+* 🧭 Route patients to appropriate departments
+* 🔔 Assist with appointment reminders
+* 📝 Extract structured patient information
+* 💬 Interact through conversational interfaces
+* 🎙️ Potentially support voice interactions
+
+The goal is to make the AI an **agent that can interact with controlled backend tools**, rather than simply being a chatbot.
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+### 🟢 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🔐 Backend & Security
+
+```text
+JWT
+HTTP-only Cookies
+Password Hashing
+Protected Routes
+RBAC
+Authorization Middleware
+Request Validation
+REST APIs
+```
+
+### 🧰 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+</p>
+
+### 🤖 AI / Modern Development
+
+```text
+Google Gemini
+AI-assisted development
+LLM APIs
+Tool / Function Calling
+AI Agents
+Conversational AI
+AI-assisted automation
+```
+
+---
+
+# 📌 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Enterprise Authentication System</h3>
-      <p>A battle-tested, production-ready full-stack authentication system designed for modern SaaS requirements.</p>
-      <ul>
-        <li><strong>Dual-Token Security</strong>: 10-minute access tokens + 7-day refresh tokens stored in <code>httpOnly</code>, <code>SameSite</code> cookies.</li>
-        <li><strong>Silent Interceptor Rotation</strong>: Transparent background token refresh via Axios interceptors with automated request queueing.</li>
-        <li><strong>Multi-Device Session Tracking</strong>: Device fingerprinting (IP, User-Agent, Device Type) with live device management and global <em>"Sign Out Everywhere"</em> revocation.</li>
-        <li><strong>Email OTP Recovery</strong>: 6-digit one-time passcode generated and delivered via Gmail SMTP with a 10-minute expiry window.</li>
-      </ul>
-      <p><em>Tech: Node.js, Express, MongoDB, React, Vite, Tailwind CSS, GSAP</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 Healthcare & Clinical SaaS</h3>
-      <p>An enterprise-grade multi-tenant healthcare and clinic management platform built for speed and security.</p>
-      <ul>
-        <li><strong>Multi-Tenancy</strong>: Isolated clinic workspaces with dedicated organizational schemas.</li>
-        <li><strong>Clinical Workflows</strong>: Real-time patient appointment scheduling, doctor availability calendars, and electronic health records (EHR).</li>
-        <li><strong>Role-Based Access</strong>: Granular permission controls protecting sensitive medical and financial data.</li>
-        <li><strong>High-Performance UI</strong>: Dynamic, accessible dashboard views with smooth animations and comprehensive audit logs.</li>
-      </ul>
-      <p><em>Tech: React, Node.js, Express, MongoDB Mongoose, RESTful API</em></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🏥 Smart Clinic SaaS
+
+Full-stack clinic & pharmacy management platform.
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB`
+
+**Focus**
+
+`RBAC` `REST API` `Healthcare` `SaaS` `AI`
+
+</td>
+
+<td width="50%">
+
+### 🔐 Authentication Systems
+
+Production-style authentication learning projects.
+
+**Topics**
+
+`JWT` `Refresh Tokens` `Cookies` `OTP`
+
+`Authorization` `Logout All Devices`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🟢 Node.js / Express Projects
+
+Backend projects focused on understanding:
+
+`REST APIs` `MongoDB` `Mongoose`
+
+`Authentication` `Middleware`
+
+</td>
+
+<td width="50%">
+
+### 🛒 Full-Stack Experiments
+
+Hands-on projects exploring:
+
+`React` `Express` `MongoDB`
+
+`API Integration` `Image Uploads`
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📬 Let's Build Something Great Together!
+# 📊 GitHub Analytics
 
-Whether you have an open full-time position, need an experienced MERN engineer for your team, or want to discuss a software project, my inbox is always open.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Direct Email</strong></td>
-      <td align="center"><strong>GitHub Profile</strong></td>
-      <td align="center"><strong>Availability</strong></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="mailto:aniskhanniazi202@gmail.com"><strong>aniskhanniazi202@gmail.com</strong></a></td>
-      <td align="center"><a href="https://github.com/AnisKhanN"><strong>@AnisKhanN</strong></a></td>
-      <td align="center"><strong>Full-Time Roles & Contracts</strong></td>
-    </tr>
-  </table>
-
-  <br />
-  <a href="mailto:aniskhanniazi202@gmail.com?subject=Opportunity%20Discussion%20-%20Full%20Stack%20Engineer">
-    <img src="https://img.shields.io/badge/Contact_Me_Directly-Get_in_Touch-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Anis Khan Niazi" />
-  </a>
-</div>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnisKhanN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisKhanN&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
-  <sub>Designed & engineered with precision by <strong>Anis Khan Niazi</strong> &bull; © 2026</sub>
-</div>
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnisKhanN&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnisKhanN&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnisKhanN/AnisKhanN/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+# 📚 Current Learning Path
+
+```text
+                         ┌────────────────────┐
+                         │   SOFTWARE ENGINEER │
+                         └─────────┬──────────┘
+                                   │
+                ┌──────────────────┼──────────────────┐
+                │                  │                  │
+                ▼                  ▼                  ▼
+          Full-Stack             AI               DevOps
+                │                  │                  │
+        ┌───────┴───────┐    ┌─────┴─────┐     ┌─────┴─────┐
+        │               │    │           │     │           │
+      React          Node.js LLMs      Agents Docker     CI/CD
+        │               │    │           │     │           │
+      Next.js        Express │      Tool Calling Cloud   Deployment
+        │               │    │           │
+    TypeScript       REST   AI APIs   Automation
+        │               │
+        └───────┬───────┘
+                │
+                ▼
+             SaaS
+```
+
+---
+
+# 🎯 Current Goals
+
+### 🔹 Near Term
+
+* [x] Build MERN fundamentals
+* [x] Build REST APIs
+* [x] Work with MongoDB
+* [x] Learn authentication & authorization
+* [x] Practice API testing with Postman
+* [x] Build full-stack applications
+* [ ] Complete Smart Clinic SaaS
+* [ ] Strengthen JavaScript fundamentals
+* [ ] Improve testing practices
+* [ ] Deploy production-style applications
+
+### 🔹 Next Stage
+
+* [ ] TypeScript
+* [ ] Next.js
+* [ ] Python
+* [ ] FastAPI
+* [ ] Django
+* [ ] PostgreSQL
+* [ ] Docker & CI/CD
+* [ ] Cloud deployment
+* [ ] Advanced AI integration
+* [ ] AI agents
+* [ ] Automation
+
+---
+
+# 🧠 How I Approach Development
+
+I don't want to be someone who can only generate a UI.
+
+I want to understand the complete system:
+
+```text
+                    USER
+                     │
+                     ▼
+                 FRONTEND
+                     │
+                     ▼
+                  API
+                     │
+                     ▼
+               AUTHENTICATION
+                     │
+                     ▼
+                AUTHORIZATION
+                     │
+                     ▼
+              BUSINESS LOGIC
+                     │
+                     ▼
+                 DATABASE
+                     │
+                     ▼
+                  RESPONSE
+                     │
+                     ▼
+                 FRONTEND
+```
+
+And when AI is involved:
+
+```text
+USER
+ │
+ ▼
+AI INTERFACE
+ │
+ ▼
+LLM / AGENT
+ │
+ ▼
+CONTROLLED TOOL
+ │
+ ▼
+BACKEND API
+ │
+ ▼
+AUTH + VALIDATION
+ │
+ ▼
+BUSINESS LOGIC
+ │
+ ▼
+DATABASE
+```
+
+This is the direction I'm interested in: **AI integrated into real software architecture.**
+
+---
+
+# 🧪 Learning by Building
+
+Most of my learning comes from projects.
+
+When something doesn't work, I try to understand:
+
+```text
+❌ Error
+   ↓
+🔍 Investigate
+   ↓
+🧠 Understand
+   ↓
+🛠️ Fix
+   ↓
+🧪 Test
+   ↓
+📚 Document
+   ↓
+🚀 Improve
+```
+
+I'm still developing my engineering skills, and I don't consider myself an expert in every technology listed here.
+
+I'm more interested in **becoming better at building systems** than collecting technology names.
+
+---
+
+# 🎓 Education & Certifications
+
+🎓 **BS Information Technology**
+
+**SBBU Sanghar Campus**
+
+Areas of study include:
+
+* Information Security
+* Application Development
+* Operations Research
+* Routing & Switching
+* Digital Image Processing
+* IT Project Management
+
+### 📜 Learning & Certifications
+
+* Google Prompt Essentials
+* Google Digital Marketing & E-commerce
+* DigiSkills Freelancing
+* DigiSkills Affiliate Marketing
+
+---
+
+# 🌐 Areas I'm Interested In
+
+```text
+💻 Full-Stack Development
+🏗️ Backend Architecture
+🟢 MERN Stack
+🔐 Authentication & Security
+🗄️ Database Design
+🚀 SaaS
+🤖 AI Applications
+🧠 AI Agents
+⚙️ Automation
+📊 Analytics
+☁️ Cloud & DevOps
+💼 Freelancing
+```
+
+---
+
+# 💬 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/AnisKhanN">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:aniskhanniazi202@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Build. Break. Debug. Learn. Build Better.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=100&section=footer" />
+
+</p>
