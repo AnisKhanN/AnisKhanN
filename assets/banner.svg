@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19" />
+      <stop offset="45%" stop-color="#1E1B4B" />
+      <stop offset="85%" stop-color="#312E81" />
+      <stop offset="100%" stop-color="#4F46E5" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E0E7FF" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="50%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#EC4899" />
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(255, 255, 255, 0.05)" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect width="900" height="220" rx="16" fill="url(#bg)" />
+  <rect width="900" height="220" rx="16" fill="url(#grid)" />
+  
+  <circle cx="820" cy="50" r="110" fill="#4F46E5" opacity="0.3" filter="blur(40px)" />
+  <circle cx="80" cy="180" r="90" fill="#8B5CF6" opacity="0.25" filter="blur(30px)" />
+
+  <rect x="0" y="0" width="900" height="4" rx="2" fill="url(#accent)" />
+
+  <text x="60" y="68" font-family="'Fira Code', 'Courier New', monospace" font-size="20" font-weight="700" fill="#818CF8" opacity="0.7">&lt;/&gt;</text>
+
+  <text x="60" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="900" fill="url(#textGrad)" letter-spacing="1">ANIS KHAN NIAZI</text>
+
+  <text x="60" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#A5B4FC" letter-spacing="3">FULL-STACK SOFTWARE ENGINEER &bull; MERN SPECIALIST</text>
+
+  <text x="60" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#CBD5E1">Enterprise Auth Security &bull; Dual-Token JWT &bull; Multi-Tenant SaaS &bull; High-Performance APIs</text>
+</svg>

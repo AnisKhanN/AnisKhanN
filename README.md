@@ -1,13 +1,15 @@
 <div align="center">
-  <!-- Dynamic Gradient Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Anis%20Khan%20Niazi&fontSize=46&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%26%20Cloud%20Architecture&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Anis Khan Niazi - Full Stack Software Engineer" />
+  <!-- In-repo SVG Header Banner (Always displays with 100% uptime) -->
+  <img src="assets/banner.svg" width="100%" alt="Anis Khan Niazi - Full Stack Software Engineer" />
+
+  <br />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/AnisKhanN">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Software+Engineer;Specializing+in+Node.js%2C+Express+%26+MongoDB;Enterprise+JWT+Auth+%26+Session+Security;Building+Scalable+Multi-Tenant+SaaS+Platforms;Available+for+Full-Time+Roles+%26+Contracts" alt="Typing SVG" />
   </a>
 
-  <!-- Quick Status Badges -->
+  <!-- Quick Action Badges -->
   <p align="center">
     <a href="mailto:aniskhanniazi202@gmail.com">
       <img src="https://img.shields.io/badge/Email-aniskhanniazi202%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -29,6 +31,36 @@ I am a results-driven **Full-Stack Software Engineer** specializing in modern **
 - 🔐 **Security & System Architecture**: Production-grade dual-token JWT authentication, HTTP-only cookie isolation, silent Axios background rotation, Nodemailer SMTP OTP delivery, and multi-device session revocation.
 - 🏢 **Multi-Tenant SaaS**: Experienced designing clinical healthcare SaaS platforms featuring multi-tenant database isolation, role-based access control (RBAC), and high-throughput API endpoints.
 - 🎯 **Current Focus**: Architecting scalable cloud-native microservices, optimizing database performance, and building pixel-perfect, accessible web interfaces.
+
+---
+
+## ⚡ What I Do
+
+I architect, develop, and maintain robust full-stack software solutions with an emphasis on security, scalability, and seamless user experiences:
+
+- 💻 **Full-Stack Application Development**
+  - Building responsive, scalable web applications from scratch using **React 18**, **Vite**, **Node.js**, **Express**, and **MongoDB**.
+  - Writing modular, reusable components and clean architectural patterns with strict separation of concerns.
+
+- 🛡️ **Enterprise Security & Authentication Architecture**
+  - Designing production-grade **dual-token authentication** workflows (short-lived 10-minute Access Tokens + 7-day Refresh Tokens).
+  - Isolating tokens in `httpOnly`, `SameSite` cookies to neutralize XSS and CSRF token extraction vulnerabilities.
+  - Implementing silent Axios background rotation interceptors with automated request retry queues.
+  - Engineering secure email OTP verification systems (Nodemailer Gmail SMTP) with server-side time-based expiration.
+  - Building multi-device session tracking with real-time device identification (IP, User-Agent) and global session revocation.
+
+- 🏢 **Multi-Tenant SaaS Systems**
+  - Architecting multi-tenant database models and organizational data isolation (e.g. Healthcare & Clinical SaaS).
+  - Developing Role-Based Access Control (RBAC), appointment scheduling, and patient record workflows.
+
+- 🔌 **RESTful API Engineering & Integration**
+  - Designing high-throughput, structured REST APIs with consistent JSON envelopes, HTTP status codes, and input validation.
+  - Implementing defensive error-handling middleware pipelines and database transaction safeguards.
+
+- 🎨 **Modern Frontend & Motion Design**
+  - Crafting pixel-perfect, accessible UIs with **Tailwind CSS** and responsive design across all viewports.
+  - Building smooth micro-animations and choreographed page transitions with **GSAP**.
+  - Persistent Dark / Light theme systems with zero-flash rendering.
 
 ---
 
@@ -92,19 +124,6 @@ I am a results-driven **Full-Stack Software Engineer** specializing in modern **
     </td>
   </tr>
 </table>
-
----
-
-## 📈 GitHub Statistics & Performance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnisKhanN&show_icons=true&theme=radical&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=94a3b8&bg_color=0d1117" width="48%" alt="Anis Khan Niazi GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisKhanN&layout=compact&theme=radical&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0d1117" width="48%" alt="Anis Khan Niazi Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnisKhanN&theme=radical&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="97%" alt="Anis Khan Niazi GitHub Streak" />
-</div>
 
 ---
 
