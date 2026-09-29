@@ -1,98 +1,139 @@
-﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Anis%20Khan%20Niazi&fontSize=48&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%26%20Cloud%20Architecture&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" />
+<div align="center">
+  <!-- Dynamic Gradient Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Anis%20Khan%20Niazi&fontSize=46&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20MERN%20%26%20Cloud%20Architecture&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Anis Khan Niazi - Full Stack Software Engineer" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full-Stack+MERN+Software+Engineer;Specializing+in+Node.js%2C+Express+%26+MongoDB;Enterprise+JWT+Auth+%26+Session+Security;Building+Scalable+Multi-Tenant+SaaS+Platforms" alt="Typing SVG" />
+  <!-- Animated Typing Subtitle -->
+  <a href="https://github.com/AnisKhanN">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Software+Engineer;Specializing+in+Node.js%2C+Express+%26+MongoDB;Enterprise+JWT+Auth+%26+Session+Security;Building+Scalable+Multi-Tenant+SaaS+Platforms;Available+for+Full-Time+Roles+%26+Contracts" alt="Typing SVG" />
   </a>
 
+  <!-- Quick Status Badges -->
   <p align="center">
-    <a href="mailto:aniskhanniazi202@gmail.com"><img src="https://img.shields.io/badge/Email-aniskhanniazi202%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/AnisKhanN"><img src="https://img.shields.io/badge/GitHub-AnisKhanN-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-success?style=for-the-badge" />
+    <a href="mailto:aniskhanniazi202@gmail.com">
+      <img src="https://img.shields.io/badge/Email-aniskhanniazi202%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/AnisKhanN">
+      <img src="https://img.shields.io/badge/GitHub-AnisKhanN-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-🟢_Open_for_Hire-10B981?style=for-the-badge" alt="Hiring Status" />
   </p>
 </div>
 
 ---
 
-### ðŸ‘¨â€ðŸ’» About Me
+## 💼 Executive Summary
 
-I am a dedicated **Full-Stack Software Engineer** passionate about designing and building high-performance, secure, and scalable web applications. My core expertise spans the modern **JavaScript/TypeScript ecosystem**, with deep architectural focus on backend security, multi-tenant databases, and fluid frontend user interfaces.
+I am a results-driven **Full-Stack Software Engineer** specializing in modern **MERN stack**, resilient backend architectures, and secure enterprise session management. I build scalable, high-performance web systems with clean code, robust database modeling, and fluid user experiences.
 
-- ðŸ”­ **Specialization**: Enterprise Authentication Systems, Multi-Tenant SaaS Architecture, RESTful API Engineering.
-- ðŸ›¡ï¸ **Security Expertise**: Dual-token JWT rotation, HTTP-Only Cookie isolation, Nodemailer OTP verification, and multi-device session tracking.
-- ðŸŽ¨ **Frontend Craft**: Responsive web apps with React 18, Vite, Tailwind CSS, and interactive GSAP micro-animations.
-- âš¡ **Continuous Learning**: Scaling distributed systems, cloud computing, and advanced microservices patterns.
+- 🚀 **Core Specialty**: End-to-end full-stack development using **React 18**, **Node.js**, **Express.js**, and **MongoDB**.
+- 🔐 **Security & System Architecture**: Production-grade dual-token JWT authentication, HTTP-only cookie isolation, silent Axios background rotation, Nodemailer SMTP OTP delivery, and multi-device session revocation.
+- 🏢 **Multi-Tenant SaaS**: Experienced designing clinical healthcare SaaS platforms featuring multi-tenant database isolation, role-based access control (RBAC), and high-throughput API endpoints.
+- 🎯 **Current Focus**: Architecting scalable cloud-native microservices, optimizing database performance, and building pixel-perfect, accessible web interfaces.
 
 ---
 
-### ðŸ› ï¸ Tech Stack & Skills
+## 🛠️ Technical Skills & Toolbelt
+
+### Frontend Engineering
+![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP_Animations-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & API Architecture
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Dual_Token-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer_SMTP-007ACC?style=for-the-badge&logo=mailgun&logoColor=white)
+
+### Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose_ODM-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools, Testing & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 🏆 Featured Engineering Architectures
 
 <table>
   <tr>
-    <td width="22%" align="center"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>🛡️ Enterprise Authentication System</h3>
+      <p>A battle-tested, production-ready full-stack authentication system designed for modern SaaS requirements.</p>
+      <ul>
+        <li><strong>Dual-Token Security</strong>: 10-minute access tokens + 7-day refresh tokens stored in <code>httpOnly</code>, <code>SameSite</code> cookies.</li>
+        <li><strong>Silent Interceptor Rotation</strong>: Transparent background token refresh via Axios interceptors with automated request queueing.</li>
+        <li><strong>Multi-Device Session Tracking</strong>: Device fingerprinting (IP, User-Agent, Device Type) with live device management and global <em>"Sign Out Everywhere"</em> revocation.</li>
+        <li><strong>Email OTP Recovery</strong>: 6-digit one-time passcode generated and delivered via Gmail SMTP with a 10-minute expiry window.</li>
+      </ul>
+      <p><em>Tech: Node.js, Express, MongoDB, React, Vite, Tailwind CSS, GSAP</em></p>
     </td>
-  </tr>
-  <tr>
-    <td width="22%" align="center"><strong>Backend & APIs</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nodemailer-007ACC?style=flat-square&logo=mailgun&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="22%" align="center"><strong>Databases</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="22%" align="center"><strong>Tools & Workflow</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>🏥 Healthcare & Clinical SaaS</h3>
+      <p>An enterprise-grade multi-tenant healthcare and clinic management platform built for speed and security.</p>
+      <ul>
+        <li><strong>Multi-Tenancy</strong>: Isolated clinic workspaces with dedicated organizational schemas.</li>
+        <li><strong>Clinical Workflows</strong>: Real-time patient appointment scheduling, doctor availability calendars, and electronic health records (EHR).</li>
+        <li><strong>Role-Based Access</strong>: Granular permission controls protecting sensitive medical and financial data.</li>
+        <li><strong>High-Performance UI</strong>: Dynamic, accessible dashboard views with smooth animations and comprehensive audit logs.</li>
+      </ul>
+      <p><em>Tech: React, Node.js, Express, MongoDB Mongoose, RESTful API</em></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### ðŸ›¡ï¸ Core Engineering Highlights
-
-- **Enterprise Dual-Token Authentication**: Built production-ready authentication architectures implementing 10-minute access tokens with 7-day refresh cycles in HTTP-only cookies, automatic background Axios rotation, and real-time OTP email delivery.
-- **Multi-Device Session Revocation**: Tracked device logins, IP addresses, and user-agents in MongoDB with granular single-device and global "Logout Everywhere" session destruction.
-- **Healthcare & Clinic SaaS Platforms**: Engineered multi-tenant management systems for healthcare providers, appointment scheduling, and patient record data structures.
-
----
-
-### ðŸ“Š GitHub Activity & Insights
+## 📈 GitHub Statistics & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnisKhanN&show_icons=true&theme=radical&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=94a3b8&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisKhanN&layout=compact&theme=radical&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnisKhanN&show_icons=true&theme=radical&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=94a3b8&bg_color=0d1117" width="48%" alt="Anis Khan Niazi GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisKhanN&layout=compact&theme=radical&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0d1117" width="48%" alt="Anis Khan Niazi Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnisKhanN&theme=radical&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnisKhanN&theme=radical&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="97%" alt="Anis Khan Niazi GitHub Streak" />
 </div>
 
 ---
 
+## 📬 Let's Build Something Great Together!
+
+Whether you have an open full-time position, need an experienced MERN engineer for your team, or want to discuss a software project, my inbox is always open.
+
 <div align="center">
-  <sub>Crafted with passion by <strong>Anis Khan Niazi</strong> &bull; Â© 2026</sub>
+  <table>
+    <tr>
+      <td align="center"><strong>Direct Email</strong></td>
+      <td align="center"><strong>GitHub Profile</strong></td>
+      <td align="center"><strong>Availability</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="mailto:aniskhanniazi202@gmail.com"><strong>aniskhanniazi202@gmail.com</strong></a></td>
+      <td align="center"><a href="https://github.com/AnisKhanN"><strong>@AnisKhanN</strong></a></td>
+      <td align="center"><strong>Full-Time Roles & Contracts</strong></td>
+    </tr>
+  </table>
+
+  <br />
+  <a href="mailto:aniskhanniazi202@gmail.com?subject=Opportunity%20Discussion%20-%20Full%20Stack%20Engineer">
+    <img src="https://img.shields.io/badge/Contact_Me_Directly-Get_in_Touch-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Anis Khan Niazi" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & engineered with precision by <strong>Anis Khan Niazi</strong> &bull; © 2026</sub>
 </div>
