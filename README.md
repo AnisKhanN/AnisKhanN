@@ -2,7 +2,7 @@
 ### Senior Full-Stack Engineer | MERN & Next.js Architect | AI Product Systems
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aniskhanniazi" target="_blank">
+  <a href="https://www.linkedin.com/in/anis-khan-niazi-476402276" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Match"/>
   </a>
   <a href="mailto:aniskhanniazi202@gmail.com">
@@ -110,7 +110,7 @@ My core competitive advantage centers on **AI-Assisted Product Engineering**. By
 
 *   **Location Matrix:** Sanghar, Sindh, Pakistan (Open to On-Site Hybrid Hubs & Distributed Remote Contracts globally)
 *   **Direct Pipeline:** [aniskhanniazi202@gmail.com](mailto:aniskhanniazi202@gmail.com)
-*   **Corporate Identification:** [LinkedIn Profile](https://www.linkedin.com/in/aniskhanniazi)
+*   **Corporate Identification:** [LinkedIn Profile](https://www.linkedin.com/in/anis-khan-niazi-476402276)
 
 ---
 <p align="center">
