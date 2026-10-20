@@ -29,7 +29,7 @@ My core competitive advantage centers on **AI-Assisted Product Engineering**. By
 [Frontend Layers]  ---> React.js / Next.js / TypeScript / Redux Toolkit / Tailwind CSS
 [Backend Engine]   ---> Node.js / Express.js / RESTful Microservices / Python
 [Data Persistence] ---> MongoDB / PostgreSQL / MySQL / Redis Caching Clusters
-[DevOps & Cloud]   ---> Docker Containerization / CI-CD Actions / Vercel / AWS Foundations
+[DevOps & Cloud]   ---> Docker Containerization / ImageKit CDN / CI-CD / Vercel / AWS
 ```
 
 ### 💻 Frontend Architecture
@@ -49,6 +49,7 @@ My core competitive advantage centers on **AI-Assisted Product Engineering**. By
 
 ### 📦 DevOps, Cloud & Delivery
 *   **Virtualization:** Docker Containerization, Multi-stage builds, Environment isolation
+*   **Media & CDN:** ImageKit (Real-time media transformations, dynamic optimization, global CDN distribution)
 *   **Automation:** Git/GitHub Source Engine, GitHub Actions CI/CD pipelines, Automated deployment tracking
 *   **Hosting Services:** Vercel, Netlify, Render, Amazon Web Services (AWS Basics, S3, EC2 instances)
 
@@ -76,6 +77,7 @@ My core competitive advantage centers on **AI-Assisted Product Engineering**. By
 
 ### 🛒 Containerized Microservices E-Commerce Infrastructure
 *Created a robust digital storefront built to showcase consistent localized deployments across changing platform runtime systems.*
+*   **Media Architecture:** Integrated **ImageKit** for automated image resizing, format optimization (WebP/AVIF), and low-latency global CDN asset delivery.
 *   **State Persistence:** Engineered custom client-side shopping cart synchronization engines matching background database document updates.
 *   **Docker Deployment:** Containerized application components independently to prevent environment drift anomalies between testing workspaces and public cloud servers.
 
