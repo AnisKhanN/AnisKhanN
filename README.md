@@ -1,5 +1,5 @@
 # Hi there, I'm Anis Khan Niazi 👋 
-### Senior Full-Stack Engineer | MERN & Next.js Architect | AI Product Systems
+### Full-Stack Engineer | MERN & Next.js Architect | AI Product Systems
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anis-khan-niazi-476402276" target="_blank">
